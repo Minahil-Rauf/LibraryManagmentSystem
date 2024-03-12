@@ -1,6 +1,9 @@
 # Java Console Library Management System
 
 This is a simple console-based library management system implemented in Java. It allows users to perform basic library tasks such as adding books, searching for books, borrowing books, and returning books.
+##pre-requisites
+- **Any IDE supporting Java such as intellij,netbeans,VS code(with JDK downloaded)
+- **As it is a simple managment system with no database at the backend so Users and Books record is written in users.txt and books.txt files so make sure to create the files in the same directory.  
 
 ## Features
 
