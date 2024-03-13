@@ -1,6 +1,11 @@
 /*
+        File name :WritingToFile.java
 Class WritingToFile containing two static methods for writing the User and Book information in users.txt and books.txt files
 */
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.ArrayList;
 class WritingToFile {
     // Method to write books information to file
     public static void writeBooksToFile(ArrayList<Book> books) {
