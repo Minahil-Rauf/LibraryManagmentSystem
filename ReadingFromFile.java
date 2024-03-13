@@ -1,6 +1,10 @@
-/*
+/*  File name :ReadingFromFile.java
 Class ReadingFromFile containing two static methods for reading the User and Book information from users.txt and books.txt files
 */
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+
 class ReadingFromFile {
     // Method to read books information from file
     public static void readBook(Library library) {
