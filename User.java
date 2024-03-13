@@ -1,4 +1,5 @@
 /*
+File name :User.java
 Class User containing userID ,name,contactInformation,borrowedBook  attributes
 *A constructor with access specifier public
 *setters for setting the value of every attributes
@@ -33,13 +34,3 @@ class User {
         return contactInformation;
     }
 }
-
-
-
-
-
-
-       
-    
-    
-       
