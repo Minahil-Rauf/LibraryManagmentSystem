@@ -1,7 +1,8 @@
 /*
+File name :Book.java
 Class Book containing bookID ,title,author,genre,avalaibilityStatus attributes
 *A constructor with access specifier public
-*setters for setting the value of every attributes
+*setters for setting the value of every attributes  
 *getters for accessing attributes
 
 */
@@ -46,3 +47,4 @@ public void setAvailability(boolean availability) {
     availabilityStatus = availability;
 }
 }
+ss
